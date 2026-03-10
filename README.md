@@ -34,10 +34,7 @@ Estudando programação e construindo meus projetos 🚀
 
 ---
 
-## 📊 GitHub Stats
-![May's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maymonttorso&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maymonttorso&layout=compact&theme=tokyonight)
-👋
+
 
 <!--
 **maymonttorso/maymonttorso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
