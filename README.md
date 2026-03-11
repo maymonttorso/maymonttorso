@@ -6,8 +6,11 @@
 <h1 align="center">Olá, eu sou a May 👩‍💻</h1>
 
 <p align="center">
-✨ Estudante de Análise e Desenvolvimento de Sistemas  
+  
+✨ Estudante de Análise e Desenvolvimento de Sistemas
+
 💡 Apaixonada por Inteligência Artificial e tecnologia  
+
 🚀 Sempre aprendendo algo novo
 </p>
 
@@ -16,9 +19,13 @@
 ### 🌸 Sobre mim
 
 • 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
+
 • 🤖 Interessada em **Inteligência Artificial e automações**
+
 • 🎨 Designer gráfico formada pela **EBAC**
+
 • 🌎 Idiomas: **Português | Inglês | Espanhol | Libras**
+
 • 🧠 Sempre buscando evoluir e aprender mais na área de tecnologia
 
 ---
