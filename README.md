@@ -1,23 +1,36 @@
-<p style="center">
-  <img src="avatar.png" width="300">
+# may
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
 </p>
 
-<h2 style="center">Olá, eu sou a May 👩‍💻</h2>
+<h1 align="center">Olá, eu sou a May 👩‍💻</h1>
 
-<p style="center">
-Estudando programação e construindo meus projetos 🚀
+<p align="center">
+✨ Estudante de Análise e Desenvolvimento de Sistemas  
+💡 Apaixonada por Inteligência Artificial e tecnologia  
+🚀 Sempre aprendendo algo novo
 </p>
 
 ---
 
+### 🌸 Sobre mim
+
+• 🎓 Estudando **Análise e Desenvolvimento de Sistemas**
+• 🤖 Interessada em **Inteligência Artificial e automações**
+• 🎨 Designer gráfico formada pela **EBAC**
+• 🌎 Idiomas: **Português | Inglês | Espanhol | Libras**
+• 🧠 Sempre buscando evoluir e aprender mais na área de tecnologia
+
 ---
 
-### 📊 GitHub Stats
+### 💻 Tecnologias que estudo
 
-<p style="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=maymontorso&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maymontorso&layout=compact&theme=tokyonight"/>
-</p>
+🐍 Python
+🌐 HTML | CSS
+⚙️ Lógica de programação
+🤖 Inteligência Artificial
+🎨 Design
+
 
 ## 🚀 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maymontty)
