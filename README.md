@@ -12,7 +12,10 @@
 💡 Apaixonada por Inteligência Artificial e tecnologia  
 
 🚀 Sempre aprendendo algo novo
-</p>
+
+Tenho interesse nas áreas de Otimização,
+Ciência de Dados, Machine Learning, 
+Computação Quântica e Programação Funcional.
 
 ---
 
@@ -28,15 +31,12 @@
 
 • 🧠 Sempre buscando evoluir e aprender mais na área de tecnologia
 
+
+ Atualmente, estou desenvolvendo meu Portfólio, Programação & Computação Quântica.
+</p>
+
 ---
 
-### 💻 Tecnologias que estudo
-
-🐍 Python
-🌐 HTML | CSS
-⚙️ Lógica de programação
-🤖 Inteligência Artificial
-🎨 Design
 
 
 ## 🚀 Socials
